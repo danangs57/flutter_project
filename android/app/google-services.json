@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74666616754",
+    "project_id": "favorr-2b2d5",
+    "storage_bucket": "favorr-2b2d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74666616754:android:fa92dc35e8efacc062a6ab",
+        "android_client_info": {
+          "package_name": "com.danang.favorr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74666616754-hkqftgodg6kivd31cl0dg9118cp4n5nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOcnVaewpKEe5296V_rG-NDd26vp2tXPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74666616754-hkqftgodg6kivd31cl0dg9118cp4n5nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
